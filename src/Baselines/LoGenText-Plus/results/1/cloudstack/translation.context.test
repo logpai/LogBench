@@ -1,0 +1,1061 @@
+preparing nic device on dvswitch vid
+ip reservation has been applied the new cidr for guests vms is vid
+failed to create async event vid on vid
+error updating account to cloud_usage db
+provisioned node on vm id vid in to the kubernetes cluster id vid
+createdateravolume failed
+destroy root volume directly from datastore
+unable to send controlcommand vid
+unable to get management server ip address due to vid
+ignored sql exception when trying to drop table vid exception vid
+found matching incoming rule vid
+successfully added entry in network_external_firewall_device_map for network vid and srx device id vid
+host name vid hostid vid is in avoid set skipping this and trying other available hosts
+updating load_balancing_rules table as a part of lb rules upgrade
+failed to create static nat rule due to
+could not connect to vid due to vid
+encounter remote exception to vcenter invalidate vmware session context
+caught exception while pod cidr
+failed to initialize http client vid
+getstrippedvlans vid
+error while creating attach detach service policy message vid
+format is invalid
+ignoring libvirt error
+invalid console authentication ticket in url
+listing pods for account vid
+found vid load balancing rule s to apply as a part of lb rule vid start
+unable to start vpc vid
+unable to expunge vid
+no static max available for static max setting static max and dynamic max equal
+deleting file vid due to error vid
+moving on to the next host because vid is unavailable
+autoscale is set to vid
+failed to copy volume vid
+security group mgr v2 scheduling ruleset updates for vid vms
+can not ping system vm vid due to vid
+ignored failure handling close event for socket vid
+failed to create template volume on primary storage
+failing to get physical interface from bridge vid did not find an eth bond team vlan em p p ens eno enp or enx in vid
+volume sync did not find vid ready on image store vid uploaded using ssvm marking it as failed
+read of io that s less than the last one assuming something went wrong and persisting it host vid vm vid reported vid stored vid
+error while migrating vm vid to host vid
+management server vid is ready to give away vid hosts
+total over provisioned capacity calculated is vid vid
+zone vid is not setup yet using the zone
+template vid has datadisk template s associated with it delete datadisk templates before deleting it
+management server vid is ready to give away vid hosts
+destroy root volume and vm itself vmname vid
+failed to destroy snapshot to vid
+calibrate total cpu for host vid old total memory vid new total cpu vid
+executing resource checknetworkcommand vid
+problem with sg id vid
+invoke datastore driver createasync to create template on destination store
+exception caught while migrating vm vid
+expunging of vm snapshot vid
+provisioned firewall rule to open up don vid
+something is wrong with template location vid
+vmdk file name vid
+duplicate vid volume cache store records to region store
+decommission faded blade dn vid during sync
+ignored interupted while trying to get storage
+elb elastic load balancer will balance on vid
+creating logical switch port in logical switch vid vid
+cannot ping host vid pingans bl2 vid
+deletion of file vid failed
+can not find network with security group enabled with network id vid
+unable to find the vm with id vid
+createquotabalanceresponse start entry vid
+failed to start network id vid as a part of kubernetes cluster id vid
+unable to umount vid
+parsing and updating db health check data for router vid with data vid
+found vid firewall ingress rule s to apply as a part of network id vid start
+found rule vid vid configured
+expunging template vid from primary storage vid
+skipping aggregate disk stats update
+configure vmwaremanagerimpl enabled is disabled
+invalid content in command context parameter guid
+result is vid
+checking if network name setup is done on the resource
+createasync called
+cancelling vcenter task because the task failed with the following error vid
+failed to execute loadbalancerconfigcommand due to
+boot args are vid
+failed to update object vid
+updating domain_id for updating vlan_map
+executing resource createcommand vid
+vcenter api trace getvmdkdatastorepath vid
+custom nic adapter vid
+vdi for the config drive iso vid
+unable to launch console proxy due to illegalargumentexception
+setportforwardingrulescommand args vid
+file vid has not been accessed or modified for at least vid ms
+parameters for public nic vid vid vid vid
+rbd device on host is vid
+unable to stop vm vid due to vid
+failed to release system ip address vid
+bigswitch bcf sync failed
+no controller on physical network vid
+calculated period vid exceeds the maximum vid setting it to the maximum
+scheduling snapshot for vm id vid is being called at vid
+guest network is vid for host vid
+failed to register data store provider vid
+ignored failed to get close resource for socket vid
+couldn t get the global lock
+unable to find default network for the vm vid
+unable to obtain vm disk statistics
+forwarding request vid as a part of rebalance process
+executing resource checkonhostcommand vid
+haproxy stickiness policy for url vid is vid
+ignored failed to get template virtual size for vhd vid
+unable to add missing foreign key following statement was executed vid
+not removing templateid vid from pool vid
+failed to cleanup domain id vid as a part of domain id vid cleanup
+executerequest received response vid
+unable to retrieve cloudian additional services due to
+did not find destination nat pool for vid vid to delete
+couldn t lock the db
+unable to get host information for vid
+failed to cleanup domain id vid as a part of domain id vid cleanup
+network is not implemented vid
+generating certificate vid to keystore
+failed to undefine rbd storage pool vid
+unable to find the current owner vid
+updatesystemvmtemplates exception while setting template for vid to vid vid
+caught exception while running kubernetes cluster state scanner
+unable to cleanup halted vms
+create clusteredagentattache for vid
+decode token sid info is not found
+connection to peer opened vid ip vid
+trying to add cloudian user vid
+skipping collect vm disk stats from hosts
+isagentalive vid
+txn has already been started
+unable to acquire lck vid
+invalid authentication return object vid for vm vid decline the access
+unable to build keystore password due to encode
+persist vswitch configuration successfully persisted vswitch configuration for cluster vid
+unable to cleanup vif
+host is in maintenance no prepareformaintenance state
+vm vid is now no longer on host vid
+cannot communicate with vnc server vid
+no need to resize volume
+cannot ping ipmi nic vid
+unable to create connection due to vid
+pod is currently disabled cannot allocate to this cluster vid
+unable to destroy snapshot on primary storage
+insufficientcapacityexception
+hostssupport_iscsi host does not support isci
+adding nic for internal lb vm in network vid
+there is already an vid with service provider id vid
+error while waiting for kubernetes cluster id vid api version vid
+failed to find oldest snapshot
+deleting load balancer policy vid from account vid
+read of bytes that s less than the last one assuming something went wrong and persisting it host vid vm vid reported vid stored vid
+revert vmsnapshot vid of vm vid failed
+unable to apply the load balancer config because resource is unavaliable
+failed to apply port forwarding rules for network id vid
+error getting usage records
+not retrying security group rules for vm vid on vid
+vm is not running unable to migrate the vm vid
+logical switch port vid vid successfully created in logical switch vid vid
+failed to run kubernetes cluster destroying state scanner on kubernetes cluster id vid status scanner
+vcenter api trace retrieveproperties done
+snapshot id vid has been deleted on secondary storage
+failed to copy volume vid
+unhandled exception configuring usagemanger
+encrypting template_store_ref properties
+vcenter api trace createvm_task done
+fencer vid returned vid
+couldn t register service offering vid to vid
+ipmi scirpt failed due to vid
+no suitable hosts found under this cluster vid
+failed to acquire lock for creating snapshot
+ioexception
+found vid multiple called for vm vid
+failed to generate certificate
+responseobject vid does not have vid method for property vid will check is prefixed method to see if it is boolean property
+running secstoragevm instance vid
+requested cloudian resource does not exist
+lb rules are not completely applied
+vmdkfile parent dir vid
+failed to create volume
+failed to generate com cloud class vid in vid
+no public ip addresses found for network id vid
+failed to retrieve kube config file for kubernetes cluster id vid
+unable to complete destroy of the network due to element vid
+failed to re program the network as a part of network vid implement due to
+unable to get console proxy load info id vid
+updatesystemvmtemplates exception while getting ids of templates vid
+unable to close statement vid
+recovering vm vid
+destroy bridge for network vid failed
+read of bytes that s less than the last one assuming something went wrong and persisting it host vid vm vid reported vid stored vid
+read of bytes that s less than the last one assuming something went wrong and persisting it host vid vm vid reported vid stored vid
+unable to find public nic vid vid
+zone host is ready but console proxy template vid is not ready on secondary storage
+deleteipv6 vid
+couldn t lock the db
+failed to find domr for for account id vid in network id vid
+unable to cleanup vid
+error updating capacityvo
+running systemintegrity vid
+investigating volume vid via volume vid
+unable to create local template for vid
+run vm work job vid for vm vid job origin vid
+failed to remove iscsi target vid message vid
+starting copy from source image vid to vid the error was vid
+problems while attempting to stop elb vm
+ioexception caught while trying to connect to the neutron controller
+failed to delete host with event vid
+disconnected nexus session
+veeam job backup offering for vm vid failed due to
+no niciranvp controller due to vid
+attaching logical switch vid on logical switch vid
+niciranvpapiexception during create call rolling back previous create
+failed to destroy load balancer appliance used by the network vid due to vid
+configuration value for vid is invalid
+fail to clean up old connection vid
+network ipv6 cidr vid
+adding vpc resource count for vpc vid
+unable to find root volume vid
+applying vpn users
+failed to create default security group for vm
+sending shutdown to management server
+failed to destroy load balancing rules for ip vid as a part of vm expunge
+stopping vm vid as a part of deletion
+unable to add public network vid to broadcast type
+snapshot deletion success
+this vpc has a migration row in the resource details table you might be migrated
+re authentication result vm vid host address vid port vid
+failed to remove vpn users router not in running state
+failed to publish state change event on the the event bus
+successfully created virtual server vid and domain vid binding
+number of vm will less than the minimum in this group if scaling down so do nothing more
+unable to create vid vid
+host vid connected with incorrect type vid
+failed to retrieve vm clone setting for vm vid
+create vid cache entry id vid on store id vid
+unable to set permissions for vid due to vid
+releasing vid port forwarding rules for ip id vid
+template object creation failed
+updating storage pool vid with storagepool vid
+failed to apply network acl item on the backend
+invalid scope id name vid
+host name vid hostid vid already has max running vms count includes system vms skipping this and trying available hosts
+failed to create volume from snapshot
+management server vid doesn t exist in the management server vid
+more that one usage entry for vm snapshot vid for vm vid assigned to account vid marking them all as deleted
+no bridge found for vlan id vid
+failed to change snapshot state vid
+certificate must be uploaded on zone vid
+trying to expunge vm due to vid
+host vid added to the maintenance set
+unable to find network offering for the network vid
+unable to apply static route vid is not in the right state vid
+no volume present in on the given tsm
+checking host id vid for capacity already reserved vid
+fail to complete the updaterhealthchecksconfigtask
+couldn t get the global lock
+inserting resource count of type vid for account vid
+something is wrong with volume id vid
+vcenter api trace finddatastorebyexportpath target mor vid pooluuid vid
+virtual machine update
+unexpected due to exception
+generating a connection to guid vid
+failed to retrive the default label for zone vid hypervisor vid due to vid
+failed to unregister vm vid due to vid
+loading directly connected host vid vid
+updating volume_store_ref table from snapshots table
+unable to discover bare metal host successfully
+no suitable hosts found under this cluster vid
+template sync found vid uploaded using ssvm on image store vid
+clusterscopestoragepoolallocators skipping this pool
+getsolidfirevolumesizecmd execute method invoked
+failed to destroy vm id vid as a part of kubernetes cluster id vid cleanup
+failed to release public ip address id vid
+getstoragestatscommand failed
+invalid timeout parameter vid
+failed to list storage network ip range for rangeid vid podid vid zoneid vid
+expired password for user vid in the right state vid
+creating vm dpdk port for vm vid
+createnicenv failed vid
+secondary storage vm startup failure zone vid secstoragevm vid public ip vid private ip vid
+login to netscaler
+incorrect date format for expires parameter
+setting the domain to root
+template vid is not found on storage pool vid so no need to delete
+sent of bytes that s less than the last one assuming something went wrong and persisting it host vid vm vid reported vid stored vid
+notify management server node ip vid msid vid
+vmwaremanagerimpl config vmware vcenter session timeout vid
+failed to destroy load balancer appliance used by the network vid due to vid
+attached config drive iso to vm vid
+usagerec for vmsnap on key vid
+updating network acls for network vid
+updating firewall ingress rule traffic type vid
+unable to download template from url vid
+ping command port vid vid
+failed to send command to host vid
+ignored class not found in directory vid
+unable to migrate vm vid
+vm_data command on domain router vid failed message vid
+unprotocol
+done executing vm work job vid
+purge queue item for resource id vid
+start configuring secondary storage vm manager vid
+drop of temp table network_offerings2 failed
+marking vid ip addresses to belong to network vid
+failed to unplug nic for import vid
+failed to create vm snapshot vid
+invalid numeric parameter in query string vid
+instance id vid is not retrieved by vid
+caught exception while running kubernetes cluster gc
+unable to expunge vid
+assign console proxy for user vm vid no longer exists
+vm disk consolidation failed after storage migration
+failed to delete veam task
+root disk size specified is vid b and template root disk size is vid b both are equal so no need to override
+looking for pif for bridge vid
+using owner vm vid for snapshot operation
+starting kubernetes cluster id vid
+unable to download from url vid
+exception caught while shutting down a network as part of a failed implementation
+fail to release dedicated resources for account vid
+failed to execute networkusage command due to
+ssh execution of command vid has an error code in return result output vid
+succesfully refreshed pool vid capacity vid used vid available vid
+kvmhavmactivitychecker result vid
+deleting s3 object vid in bucket vid
+failed to cleanup snapshot with id vid
+nic using existing ip address vid
+project read
+createtunnelnetwork failed
+there are no hosts to rebalance in the system current number of hosts in the system is vid
+creating network for account vid from the network offering id vid as a part of deployvm process
+removing user_data for vm id vid because it s invalid
+the volume with id vid is not found
+unable to destroy task vid due to vid
+unable to get security group for the account id vid
+failed to fetch new public ip and get in expected state vid
+xml rpc external chain
+apparently we were providing sourcenat on this network
+download url garbage collector is running
+failed to start vm vid
+can t get vm network stats vid continue
+parserconfigurationexception vid
+caught the download url due to vid
+starting cleaning up vm vid resources
+ask host vid to create gre tunnel to vid
+failed to create vm
+failed to send vswitch node
+executing resource unregistercommand vid
+cluster vid still has storage pools can t remove
+unable to send storage pool command to vid via vid
+findrouterethdeviceindex mac
+account vid already added to the project id vid
+unable to send response vid
+unable to start vm vid
+using custom field vid
+adding data disk vid
+trying to add cloudian group vid
+guest os is owner of the guest os will be used
+there are no static nat rules to apply for network id vid
+failed to load rootca public key
+unable to find systemvm iso file vid
+failed to reapply ingress firewall rule s as a part of network id vid restart
+migration with storage of vm vid failed
+vm state report is updated for vm id vid
+disconnected nexus session
+failed to migrate volume vid
+created security group vid for account id vid
+deployed elb vm vid
+failed to create post vmdk line content vid
+succeeded in auto renewing certificate for vid
+cleaning up resources for vpc id vid
+unable to complete destroy of the router vid
+no mac address is allocated for nic vid
+unable to destroy task vid due to vid
+succeeded in unmounting vid
+deleting volume vid from account vid
+virtual machine update
+unable to find xml list of xml rule vid
+packet length is vid
+details from executing vid vid
+property vid filename was not found in vid current format is ignored
+connecting to vnc server vid vid
+unprotecting rbd snapshot vid
+sent vm data successfully to vm vid
+updated vmdk file vid
+ovselement can t provide the vid service on network vid
+no old stats retrieved stats from vid
+broadcasturi is empty or incorrect for guestnetwork vid
+callhostplugin failed for cmd vid with ard vid due to vid
+skip configuration of vid as it is already configured
+added foreign keys for table baremetal_pxe_devices
+no related firewall rule exists for rule id vid so returning true here
+adding ipv4 gateway ip to a inetaddress
+find logical router port failed
+usage server running vid heartbeat vid
+unable to get config drive iso vid due to vid
+caught another deadlock exception while retrying inserting security group rule log giving up
+initializing ssl
+storage pool vid doesn t exist in libvirt assuming it is already removed
+creating vmdiskhelperentry accountid vid in zone vid aiw vid air vid curair vid curaiw vid uir vid uiw vid abw vid abr vid abr vid curabw vid ubr vid ubw vid
+discovered host vid
+marking the zone vid as legacy zone
+unprotecting snapshot vid
+storage unavailable
+decode token tag vid
+cannot apply vpn users on the backend virtual router doesn t exist in the network vid
+detected disk chain top file change on volume vid vid vid
+no vm snapshot usage events for this period
+failed to create template from snapshot vid
+unable to execute ping command on domain router vid
+unable to find ip address by id vid
+empty secondary storage url domain ignoring ssl
+no need to retrieve rc vid
+neutronrestapiexception caught while trying to execute http method on the object vid
+can not find intereface associated with mac vid guid vid
+element vid is not a provider for the network vid
+configure console proxy
+nic vid is connected to dvswitch vid pg vid port vid
+txn commit called
+running kubernetes cluster state scanner on kubernetes cluster id vid for state vid
+dumping request parameters
+exception while migrating vm vid to host vid
+successfully updated host details for gateway vid
+baremetalpxeelement can not handle network shutdown
+cleaning up vm vid
+port profile vid not found
+calibrate total cpu for host vid old total cpu vid new total cpu vid
+failed to update aggregate vm disk stats
+incorrect usage statistics for usage vid bytes
+unable to delete account vid due to vid
+deleting volume vid from account vid
+attempting to stop elb vm vid
+failed to send command to host vid
+target was already mounted unmounted but failed to redefine storage vid
+systemvm keypairs not found in database need to set it
+ignored invocationtargetexception when serializing class vid
+revoking static route for route vid
+createproject for name vid uuid vid
+unrecognized account vid
+the specified cluster is in avoid set returning
+discover host dc zone vid pod vid cluster vid uri host vid
+trying to assign backup offering by backup offering by the backup provider
+unable to retrieve unmanaged instance info vid
+random allocator found vid hosts
+failed to generate hypervisor type vid
+releasing ip address vid
+looks like the destination host is unavailable for cleanup
+bigswitch bcf sync error vid
+updating work item to done id vid
+ovselement is not a provider for network vid
+index did not exist on host_details added new one
+failed to program network rules for vm vid
+read project
+failed to cleanup public lb rules as a part of shutdownnetworkrules
+an exception occurred while creating account with name vid in domain vid
+detaching volume vid from instance vid
+deleting config drive for the vm vid
+unable to fence off vid on vid
+unable to execute command vid due to invalid value vid for parameter vid
+failed to initialize http client vid
+ioexception caught while trying to connect to the bigswitch controller
+assign console proxy for user vm vid no longer exists
+vm nic ip vid is associated with the nic ip address id vid
+vcenter api trace gethyperhostresourcesummary done
+ignored interupted while handling vm question abel
+network rule conflict
+unable to launch console proxy due to illegalaccessexception
+calibrate total memory for host vid old total memory vid new total memory vid
+volss copy vmdk and ovf file starts vid
+cluster vid under this zone vid is dedicated to different account domain
+failed to stop vm vid
+unable to destroy task vid due to vid
+found vid in the kubernetes cluster id vid in state vid while expected to be in state vid so moving the cluster to alert state
+error while collecting download from vid
+invalid worker vm tag vid
+unable to find vm no rules sent to vm vid
+modifystoragepool false succeeded
+looks like admin account already exists
+failed to send vid private network vid commands to rotuer
+unable to instantiate vid
+releasing ip address vid
+failed to attach config drive host vid
+failed to list vid
+handling libvirt xml transformer hook vid
+end executerequest cmd vid
+releasing vid static nat rules for network id vid
+event type vid
+ignored invocationtargetexception when serializing class vid
+host vid couldn t rebalance with hypervisor type vid
+ignoring parameter vid as the caller is not authorized to see it
+disk chain length for the vm is greater than one this is not supported
+configure resource failed unable to discover ovm vid
+device properties file found at vid
+create using current transaction vid
+cannot lock table ovs_tunnel
+unexpected due to exception
+failed to delete snapshot on cache storages
+updated network vid with network acl id vid applying acl items
+error while creating delete policy map message vid
+adding physicalnetworkserviceprovider f5bigip in to physical network vid
+network id vid is not shared or l2
+unable to migrate to unavailable vid
+caught exception while trying to purge ols
+caught another deadlock exception while retrying inserting giving up
+host name can t start with digit
+unable to connect to remote is there a server running on port vid
+failed copy snapshot
+how come that ha step is investigating
+adding srx firewall device with host id vid in to find host id vid
+elastistor volume creation complete
+agent not found not collecting direct network usage from traffic host vid
+cannot release reservation found vid vms starting as of now and no hostid yet stored
+failed to program firewall rules into secondary storage vm vid
+disk has consolidated top vmdk is now vid
+failed to delete vm snapshot vid
+failed to createtemplatefromvolume
+unable to insert default api role mappings from file vid please configure api per role manually giving up
+result is vid
+creating s3 object vid in bucket vid
+failed to create volume
+vm vid is in running status
+host vid does not support dynamic scaling
+configuration server excluded plaintext authenticator
+unable to find host or cluster discovered by vid
+unable to unassign account id vid from the project id vid
+failed to setup storage pool vid
+unable to find the host with id vid of this vm vid
+vpc vid is started successfully
+vcenter api trace mountdatastore done failed
+unable to program default network rule due to vid
+registering a database connection for vid
+deleting virtual server vid
+found an invalid application vid not attempting to complete
+unable to setup firewall rule due to vid
+found ignored error trying to cleanup
+creating volume usage record for vol vid usage vid startdate vid enddate vid for account vid
+failed to restart network for router recreation vid router vid
+attaching logical switch port vid vid to logical router port vid vid vid with a patchattachment
+downloading template to data center vid
+umount nfs mount vid
+project invitation id vid is removed
+listbytemplatestatus exception vid
+list of backup repository vid to the backup in vid
+doesn t support storage pool type vid
+selection key is invalid vid
+lb config paylod vid
+setup username vid password vid
+received baremetal provision done notification
+reading from vid
+removed vm id vid from all load balancers as a part of expunge process
+destroy volume vid failed
+done executing vm work job vid
+skip sync template for migration of previous nfs to object store
+locking account vid due to negative balance vid
+encounter remote exception to vcenter inval
+skipping stats update for external lb for account vid
+createlogicalswitchcommand failed
+shutting down network id vid as a part of domain id vid
+requesting ipv6 address vid stored in placeholder nic for the network vid
+failed to create vid due to a failed to create vid
+invalid range size vid for range starts at vid
+encounter remote exception to vcenter invalidate vmware session context
+looking for hosts in dc vid pod vid cluster vid
+destroy vm vid on host vid
+ignored failed to get template virtual size for vmdk vid
+unable to find vlan for vm vid
+unexpected exception vid
+question text vid
+failed to deploy element vid for ip vid due to
+problems getting stats using vid
+external hostid vid is not associated with the hostid vid
+failed to get storage pool
+unable to fetch monitoring results data from router vid
+unable to set permissions for files in vid due to vid
+successfully mounted tools installer for vid
+choice option label vid
+loading module context vid from vid
+vmdkfile parent dir vid
+failed to fetch new ip and allocate it for ip with id vid address vid
+can not gracefully shutdown vm within vid state
+ignored read error on image store vid
+ovffilename vid
+stopping netscaler vm vid
+execute copyvolumefromprimarytosecondary vid
+error removing usageportforwardingrulevo
+vm vid is at vid and we received a power on report while there is no pending jobs on it
+creating a bridge for network vid on host vid
+successfully created autoscale vm project vid
+vm vid is at vid and we received a power off report while there is no pending jobs on it
+sync volume for migration of previous nfs to object store
+xenserver network is not found in vid
+copying events from vid to vid
+marking firewall egress rule vid with revoke state
+found vid projects to expire
+vid vid so not scheduling the router alerts checking thread
+encounremote exception to vcenter invalidate vmware session context
+added service for the network static nat service vid
+the script injectkeys sh was run with result vid
+vid no longer exists consolidation detected
+error in opening up ssh port vid
+completed migrating swift secondary storage to image store
+configure virtual router elemnt for network vid
+cleaning up volumes with incorrect destroyed field
+check router command on domain router vid completed
+adding physicalnetwork to user_ip_address
+sending metadata command to host vid
+deleting volume vid from account vid
+router vid is stop so not sending apply vid commands to the backend
+fail to get master ip vid
+sending deletehost id vid
+we are good no orphan msid in host table is found
+tenant credential already configured for zone vid
+permissiondns vid
+owner management server is vid
+checking if storage pools in xenserver sr due to xenserver exception
+host id vid is not in deleteable
+unexpected exception vid
+failed to migrate network vid as a part of account id vid cleanup
+failed to cleanup network acls as a part of network id vid cleanup
+chose disk controller for vol vid
+failed to delete storage pool using host id vid
+error while checking the vm vid on host vid
+create volume from snapshot vid
+incorrect url
+suitable hosts found in datacenter id vid creating deployment destination
+remove resource limit for host vid as it is removed
+vm vid lost host info failed response for authentication request from console proxy
+there are records in domain vid and override is not enable i will not delete this domain
+error while migrating vm vid to host vid
+unexpected vm state transition exception race condition
+unable to create simulator resources
+eth2ip parameter is not found assuming that we are not inside a system vm
+datera cloned vid to vid
+found a network called cloud vid on vid
+try to start site site vpn on unsupported network element
+migration cancelled because vid
+encounter remote exception to vcenter invalidation
+json exception vid
+startup answer because we re reconnecting
+writing header vid
+unable to get suitable pools
+fail to reboot vid
+failed to create volume with id vid
+inserting default egress firewall rule vid
+unable to destroy root volume directly from datastore
+scheduling usage job for external device with vid
+applying firewall rules
+ignoring pool vid as it is in disabled state
+deleted private gateway vid
+successfully created new firewall rule id vid for network id vid
+moving on to the next host because vid is unavailable
+deleted config drive iso for vm vid in host vid
+failed to execute chap vid
+unable to remove txn
+failed expunge volume vid
+failed to stop vm vid in vid state as a part of cleanup process
+management node vid is detected inactive by timestamp but is pingable
+unable to find ip address by id vid
+invalid cluster session found fence it
+retrieving called for vid
+ha state pre transition ha state is not equal to transition state ha config state vid new state vid
+created vm snapshot vid for vm vid due to vid
+session cookie is marked secure
+something went wrong that a connect is null
+executing resource dettachiso vid
+initiator vid with vid added
+destination nat rule for vid vid vid vid on vid not found
+couldn t reach due to
+we only take care of guest networks of type vid in zone of type vid
+requesting ipv6 address vid stored in placeholder nic for the network vid
+unable to find project invitation by the project id vid
+failed to change snapshot state vid
+found distributed vswitch vid
+createlogicalswitchcommand failed
+network id vid is not associated with any network
+adding physicalnetworkserviceprovider junipersrx
+unable to get host stats for vid
+dropping old key fk_networks__data_center_id
+copy volume failed vid
+configure vid with params vid
+cpu stats after allocation for host vid old used vid old reserved vid actual total vid vid total with overprovisioning vid new used vid reserved vid requested cpu vid alloc_from_last vid
+instance id is vid
+vdi not found for path vid
+unable to find bridge by name vid
+unable to find the vmware template file vid
+unable to get vnc port for vid
+question text vid
+unable to resolve vid to vid
+remove snapshot vid status vid from snapshot table
+adding master connection through vid for pool vid
+vpc vid failed to associate ip id vid to vpc vid
+header expires vid
+vcenter api trace findvswitch vid
+saml idp metadata found with id vid
+creating ip address with id vid for account vid
+post upload server failed
+incorrect bytes for volume id vid with volume id vid
+can t find image storage in zone with less than vid usage
+caught exception while running kubernetes cluster state scanner
+operation timed out
+not handling network implement in zone of type vid
+don t know how to fence non ovm vid
+rescheduling work vid to try again at vid finished attempt vid vid times
+vid handler vid is no need to remaining vid
+ignored interupted while handling vm question about umounting
+unable to execute network usage command on domr vid domr may not be ready yet failure due to vid
+path element points to an un existing inventory entity
+skipping vid because vid is already in the database
+prepare usb controller at new device vid
+unable to configure the storage
+unable to determine state of vid returning null
+public traffic label vid not found as bridge looking for physical interface
+unable to setup
+executing config drive iso
+vmware createvm_task failed due to vid
+error on scheduling export although everything was persist someone need to manually form
+ipassoc failure on applying one ip due to exception
+access granted to vid to vid by vid
+networkelement shutdown providers
+unable to shutdown router vid directly
+failed to setup certificate due to
+unable to restart vid due to vid
+unable to configure dhcp server
+failed to reset password for a vm that is not using a password enabled template
+expunging of vid from vid
+vid stored bytes received vid new bytes received vid
+run command on domain router vid root data vid
+encrypting host type vid
+unable to execute api command vid due to error vid
+failed to acquire lock on route command due to vid
+the source image vid vid is rbd format we have to perform a regular copy vid bytes
+failed to destroy snapshot due to vid
+unable to start the resource
+can t find a list for guest os based on vid
+can not find intereface associated with mac vid guest os may still at loading state retry
+encrypting config values
+looking for network setup by name vid
+updatesystemvmtemplates exception while setting template for vid to vid vid
+error trying to change state vid
+moving on to the mount point
+disk backing vid matches vid
+failed to create network acls as a part of vpc vr vid start
+attempting restart vpc vid for router recreation vid
+creating default vpc offering vid
+read write of io and bytes are both not updating vm_disk_statistics
+programmed pvlan for vm with mac vid
+caught exception while pod cidr
+cancel task is cancelled
+successfully created autoscale vm profile
+looking for pools in dc vid pod vid cluster vid
+waited for vid seconds for snapshot object vid to appear in vcenter
+completed migrating secondary storage to image store
+vm disk stats interval vid is smaller than vm disk stats interval min vid so use vm disk stats interval min
+unable to read virtual size of file vid
+error in stopping httpd service err vid
+generic db sync vid done
+failed to apply network acl item on router vid
+vid vid so not scheduling the router alerts checking thread
+setting the domain to root
+vcenter api trace importvmfromovf resource pool vid
+remoteexception while retrieving host info vid
+deleted disabled locked user with id vid attempting to access public api
+volume sync found vid already in the volume image store table
+ignoring libvirt error
+attempting to remove volume vid from pool vid
+port is blocked set a vlanid and unblock
+destination nat rule for vid vid vid vid on vid not found
+failed to process copy template callback
+unable to create vif vid no network for vid
+unable to lock parent domain vid
+successfully updated host details for f5 and srx devices
+unable to parse public ip address
+refusing to design this network
+problem sending email alert
+can t find virtual router element in network vid
+error getting last usage stats
+unable to create template vid
+set vid boot dev to vid failed
+clusterid is in avoid set skipping this pool
+unable to find snapshot vid
+failed to remove autoscale policy condition mappings
+clean up storage failed
+console proxy agent disconnected but corresponding console proxy vm no longer exists in db proxy vid
+done updating op_host_capacity
+failed to write key to vid
+modifystoragepoolcommand vid
+assuming the exception vid
+migrate volume failed
+clone volume from an appinstance
+creating vpn user vid for account vid
+backup sync background task failed due to vid
+failed to apply static nat rules for ip id vid
+network vid is not associated with any network
+floating ip create
+failed to send command to agent vid
+error getting usage events
+unable to create load balancer due to
+successfully reboot virtual router is not in the right state vid
+unable to find a vm for migrating vid
+lb rollback rule id vid lb state rolback while creating sticky policy
+unexpected state transition exception for template vid details vid
+no cisco vnmc device on network vid
+unexpecpted exception
+client creation of heartbeat is vid
+retrying ipassoccommand number of retries remaining vid
+setting httplistenport vid
+released ip addresses for vpc id vid as a part of cleanup vpc process
+timeout to wait for the host connecting to mgt svr connecting
+detected runid vid is no longer valid
+refusing to design this network
+hvm args are vid
+received of bytes that s less than the last one assuming something went wrong and persisting it router vid reported vid stored vid
+failed to revert snapshot
+no need to recreate the volume vid since it already has a pool assigned vid adding disk to vm
+ignored console proxy was interupted during gc
+getstrippedvlans vid
+interrupted while migrating domain vid
+unable to find password for vid
+unable to find user with vid in domain vid
+new session id from ncc vid
+management server vid doesn t own host id vid any more skipping rebalance for the host
+found vid snapshots to stop router vid
+received urisyntaxexception for url vid
+sending thread exit processing shutdown connection
+vmwaremanagerimpl has been successfully configured
+end cleanup expired async jobs
+maintenance scheduling maintenance mode
+successfully deleted virtual server vid
+getvmip vid found ip vid
+notify management server node left to listeners
+cmdout was vid
+unable to revoke all the firewall rules for ip id vid as a part of ip release
+scanning local sr vid
+project read
+skipping over vid
+release_lock throws exception
+found a destination host adding to avoid set since vm vid hosts
+migrate volume failed
+port forwarding service is not provided by cisco vnmc device on network vid
+vm is not running unable to migrate the vm vid
+unable to retrieve the master vm id vid in kubernetes cluster id vid
+failed to create template from snapshot vid
+failed to retrieve server ip address for kubernetes cluster id vid
+destroying private gateway vid that failed to start
+failed to copy template to image store vid will try next one
+client may already close the connection
+storage has its now nic vid
+no system networks for the given traffic types vid
+disconnected nexus session
+vcenter api trace attachdisk done successfully
+host vid has cpu capability cpu vid speed vid to support requested cpu vid and requested speed vid
+failed to program firewall rules into secondary storage vm vid
+checking if we need to migrate events
+loading directly connected host vid vid
+failed to migrate volume vid to secondary storage
+failed to acquire lock on security group id vid
+unable to retrieve server ip address for kubernetes cluster id vid
+failed to find existing cloudian user id vid in group id vid
+deleting previously created logical router port vid vid from logical router vid
+can t find properties file vid
+createcommand failed
+unable to destroy task vid due to vid
+the ovf file info has incomplete disk info
+security group mgr handling stop of vm id vid
+private key inserted into database
+refusing to design this network
+cluster vid consumption vid crosses disable threshold vid
+unique key already exists on host_details not adding new one
+executerequest received response vid
+ciscovnmc must be used
+starting kubernetes cluster id vid
+no controller on physical network vid
+found multiple entries for router id vid check name vid vid
+write of bytes that s less than the last one assuming something went wrong and persisting it host vid vm vid reported vid stored vid
+adding physicalnetwork to vlan
+stopping vm vid
+no secondary storage is found when non nfs secondary storage is used
+responseobject vid does not have vid method for property vid will check is prefixed method to see if it is boolean property
+absolute path vid
+converting rbd disk vid into template vid
+failed to create vid the error was vid
+setstaticroutecommand failure on setting one rule args vid
+releasing ip address vid
+todos done processing
+creating snapshot policy with id vid on primary storage vid
+failed to implement network vid as a part of network implement
+prepare iso volume at new device vid
+successfully enabled autoscale vm group with id vid
+excluding context vid
+exception caught while creating secondary storage
+unable to parse load info from proxy proxy vm id vid
+unable to logon to vid
+failed to remove cloudian user id vid while removing cloudian group id vid
+deleting virtual server vid
+we only take care of guest networks of type vid in zone of type vid
+stale vm is not supported
+there are no hosts to rebalance in the system current number of management server nodes in the system is vid number of managed agents is vid
+updating template_store_ref table from template_host_ref table
+ignoring libvirt error
+failed to cleanup network acls as a part of network id vid cleanup due to
+listvolume sh found in vid
+created the vm data in vid
+incorrect bytes for ip vid
+failed to backup snapshot
+unable to fence off volumes that are not recreatable vid
+couldn t download template
+unable to destroy uploaded volume vid error details vid
+result for agent change is vid
+unable to remove cluster vid due to vid
+addroutetointernalip localgw vid eth1ip vid eth1ip vid destip vid
+take pdk port vid
+unable to create a mount point
+calculated negative value for bytes sent vid user stats say vid previous network usage was vid
+unable to migrate template_s3_ref vid
+broadcast uri is vid
+operation timed out
+disk device info lookup for volume vid failed as no matching disk device found
+assignvm advance virtual adding networks no vid to vid
+an exception occurred while migrating the vm vid
+sending connect to host vid
+failed to clean up dest volume on storage
+boot args for vid vid
+deleting snapshot vid for vm vid from account vid
+db version and code version matches so no upgrade needed
+cleanup script vid is executed successfully
+management server node msid vid is owner use in host vid
+network rule conflict
+ovm3 resource initializes failed
+failed to remove firewall rule due to vid
+done recalculating system capacity
+host is in prepareformaintenance state stop host
+destroying internal lb vm vid
+invoke datastore driver createasync to create template on destination store
+unable to stop vm due to vid
+updating load_balancing_rules table as a part of lb rules upgrade
+updated router vid with network id vid
+invalid vm id sent from proxy happens when proxy session has terminated
+connection accepted for vid
+host affinity check failed
+ignored encountered invalid certificate
+unable to fence off vid on vid
+file vid does not exist on local file
+unrecognized command
+unable to create snapshot for volume vid due to vid
+directory vid already exists
+sql vid no statement is available
+ignored interupted while waiting for template to complete
+clusterid list in order of aggregate capacity vid
+network id vid is removed so clearing up corresponding gc check
+in createpool adding the pool to each of the hosts
+vcenter api trace background task target mor vid
+done executing vm work job vid
+invalid console servlet command response
+failed to create volume
+getlocks exception vid
+let vid handle ip association for vid in network vid
+failed to list cloudian group due to
+can not find a connection for instance vid assuming the default connection
+ajax request comes from a different request vid id in viewer vid
+ignoring libvirt error
+failed to setup gateway vid on router vid with the source nat will now remove the gateway
+looking for file vid in the classpath
+mdov trying to attach disk to vm vid vmid vid
+the snapshot id vid could not be found deleted on primary storage
+failed to update object vid
+failed to remove snapshot vid with exception vid rbd error vid
+error while associated with supported kubernetes cluster id vid
+running kubernetes cluster state scanner on kubernetes cluster id vid for state vid
+unable to transfer the management network from vid
+moving firewall rule vid
+physical isolation type is supported asking guestnetworkguru to design this network
+failed to retrieve kubernetes cluster id vid
+scheduled direct ha manager has been configured
+vmware revert to snapshot failed due to vid
+chose disk controller for vol vid scsi due to null root disk controller setting
+secondary storage vm not required in zone vid according to zone config
+nic has no broadcast uri
+element vid doesn t handle removevpn command
+failed to manage snapshot vid
+creation of elastistor volume creation
+implementing the network vid as a part of network cleanup
+unable to clean up staging area raw vid
+vid vid so not scheduling the router alerts checking thread
+domain vid doesn t exist maybe someone removed it it was autoscale
+error downloading template from vid due to vid
+caught execption when creating ovs bridge
+runtime exception
+it s uefi enabled kvm mlocation
+received shutdowncommand due to vid
+unable to create health check policy vid
+stopping internal lb vm vid
+failed to config ssl vid
+could not find keystore password file
+syncproject
+destination nat rule for vid vid vid vid on vid not found
+revoking static route is not in the right state vid
+successfully cleaned up firewallrules rules for network id vid
+executing deleteipalias command on the router vid
+lb rollback rule id vid while deleting stickinesspolicyid vid
+marking project id vid with state vid
+found template vid in storage pool vid
+delete vm snapshot vid of vm vid failed
+unexpected due to exception
+custom field vid is not registered
+agent hooks libvirt_vm_on_start script is vid
+unable to start console proxy server factory
+problem sending email alert
+successfully configured lb autoscale vm group vid
+fail to deploy redundant virtual router vid for vid
+cant version no usage events
+unable to logon to vid
+completed acquiring hosts for clusters already owned by this management server
+unable to parse ip address for vid
+hosts s actual total vid and cpu after applying overprovisioning vid
+local mount will be vid
+done updating vmware systemvm iso with vmid vid
+unable to apply the load balancer config because resource is unavaliable
+trying to connect to vid
+createquotabalanceresponse start entry vid
+adding nic for virtual router in guest network vid
+dhcpd resource configure successfully
+unknown isolation level vid using read uncommitted
+getvmipaddresscommand vid failed
+ignoring libvirt error
+volss copy vmdk and ovf file finishes vid
+unable to complete migration of vm vid
+didn t get an external network usage answer for public ip vid
+createhostvofordirectconnectagent vid
+failed to create template vid
+execution finished for stage vid script vid vid
+ignored caught an error during delete async job vid
+sr already introduced in xenserver checking if we can reuse it
+validation of the context failed dispose and use a new one
+moving vid to a row per cidr
+management server vid is ready to give away vid hosts
+invalid uri uuid is vid
+vm nic ip vid is associated with the port forwarding rule
+trying to launch console proxy for vm vid with id vid
+failed to retrieve the default egress traffic zone
+update network policy
+unable to fence off vid on vid
+removing agent from host vid
+successfully updated gslb site vid
+job to ajax request
+failed to create snapshot
+failed to delete remote access vpn domr vid is not in right state vid
+fail to create file vid in vr vid
+unsupported vnc protocol authorization scheme code vid
+ldap is enabled in the ldap server
+resource_count has records missing for some domains going to insert them
+failed to delete the template vid from the image store vid due to vid
+unable to cleanup vm vid on host vid due to vid
+cluster vid under this pod vid is dedicated to different account domain
+file at path vid looks like vhd vid
+parsing all vmsnapshot volume usage events for account vid
+lastquotabalance entry vid
+ignored error sending output close event vid
+we are changing the hostid to executed command from vid to vid
+ignored error closing ssl socket vid

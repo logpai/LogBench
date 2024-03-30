@@ -1,0 +1,629 @@
+delete handler invoked for failover
+starting web ui on port vid
+caught exception while processing llap system web service request
+unable to create operation log root directory vid
+cannot find vid or vid in classpath
+stats updater thread was interrupted and will now exit
+requesting jdbc standalone jar threshold is set to vid
+using schema evolution configuration variables schema evolution columns vid schema vid
+no current sessionstate skipping temp partitions for vid
+movetask skipping empty directory vid
+denominator vid
+closing all chunked input
+done executing updatemasterkey with status vid
+added enable notification for vid
+not invoking cbo because the statement vid
+acid move found vid buckets
+creating directory if it doesn t exist vid
+vectorizer isbigtableonlyresults smalltableretainlist vid
+failed to dltask drop table vid
+transaction database not properly configured can t find txns
+error decreported open_operations metric reported values may be incorrect
+failed to delete vid
+error generating json binary type from object
+failed to retrieve reader due to vid
+found vid nr of hikari specific configurations
+error in metrics init vid vid
+failed to connect to the metastore server
+numevents vid records vid
+exception writing to internal frame buffer
+sending update to a new get request from vid to vid
+begin transaction id vid
+exception writing to internal frame buffer
+could not create persistencemanagerfactory using connection pool properties will fall back
+exception writing to internal frame buffer
+replacing previous committer vid
+successfully disabled workload management
+running driver invoked for vid
+exception writing to internal frame buffer
+starting task vid in serial mode
+exception writing to internal frame buffer
+n way join vid small tables
+user vid loginuser vid
+going to execute query vid
+unable to update compaction queue vid
+locking vid due to reuse
+pattern vid
+done retrieving all objects for listprincipalpartitioncolumngrantsall
+stats vid equals in number of rows vid rows will be set to
+found table level column statistics for update vid
+duplicates detected when adding columns to rr see previous message
+failed to delete stats metastore
+authentication failed based on result from custom ldap query
+block size vid
+potential instances starting up vid
+error retrieving statistics via jdo
+stats vid vid
+vid selected
+writefileslist failed
+shutdownprogresstaskservice called
+failed to restart an old session ignoring vid
+no valid cookies associated with the request vid
+could not configure accumuloinputformat
+added vid vid as a precursor of barrier task vid vid
+going to execute query vid
+createmovetask setting tmpdir for linkedfilesink chdir vid dest was vid
+exception writing to internal frame buffer
+sorted operators by size vid
+found vid in cache
+materialized view vid was not in the cache
+exception writing to internal frame buffer
+exception writing to internal frame buffer
+going to rollback acquire connection dbconn statement stmt list lockinfo locksbeingchecked
+deleted vid records from min_history_level
+command exited with vid will retry vid
+created new tez session object vid with session id vid
+received updaterequest for vid
+failed to dumping events preparing to return vid vid
+can t fetch tasklog tasklogservlet is not supported in mr2 mode
+adding new taskid for vid vid
+using single threaded version of msck paths
+cannot find info for vid vid
+going to rollback
+disabling dynamic pruning based on port vid
+total time spent in this metastore function was greater than vid
+all the column stats vid are not accurate to merge
+approximate estimation for map vid from vid
+processing vid add_partition message vid
+error canceling delegation token
+retained vid partition vid
+exception writing to internal frame buffer
+processing for vid vid
+submitting job for jobid vid
+exception writing to internal frame buffer
+mysplitfilter onmatch has been called
+committing transaction vid to vid
+failed to instantiate udf
+socket connected
+validwriteidlist vid isacidtable vid false
+could not derive input outputformat
+list bucketing pruner is either null or in unknown state so that it
+unable to find partition vid assuming it was dropped and moving on
+materialized view vid ignored
+modulepath determined to be vid
+processing notification event vid
+ddltask written data for vid
+going to execute query vid
+found a stopped application assuming it was a previous attempt and waiting for the next one omit the l flag to avoid this
+indexcache hit mapid vid found
+pausing creation process for vid seconds
+unable to list files under vid
+vid inputselected vid filtered batch selected vid
+failure when starting the compactor compactions may not happen vid falling back to hive metastore
+created a wm session for vid
+exception writing to internal frame buffer
+vid thread has been interrupted after shutdown
+use bitvector to merge column vid s ndvs of vid to be vid
+generated vid with row schema vid
+unregistering the cache for path vid
+ignoring query complete for unknown dag vid
+session vid was not added to pool vid
+unregistering session vid for session pool vid
+startrequest vid
+clean up of hive metastore failed ignored
+timed out getting executor count of vid from vid
+completed processing exiting with vid
+begin executing addkey
+web ui has started on port vid
+cookie added for clientusername vid
+new rexcall vid
+scratchcolumntypenames vid
+exception while trying to create multi table
+going to rollback
+added vid vid as a precursive
+removing vid as parent from constant
+failed to get src vid
+deleting tmppath vid
+vid batch vid non repeated
+could not clean up file system handle vid
+top n hash has been disabled
+cbo succeeded optimized logical plan
+removed cached classloaders from vid
+failed to create curatorframework object
+vid getschemas
+token vid service vid
+skipping aggregate stats cache update for table vid the aggregate stats list we have is dirty
+executed vid tests
+empty map vid
+caught exception while trying to execute query
+flush did not progress vid entries before vid entries after
+partitionname vid
+number of all splits vid
+partitioned partition columns vid
+unable to load class vid
+error closing connection to vid
+hybrid grace hash join hash table cannot be reloaded since it will be greater than memory limit recursive spilling is currently not supported
+found table vid in hms dbstore
+check if filesystem for vid is vid
+materializing the query for llap server vid
+exception writing to internal frame buffer
+exception writing to internal frame buffer
+trying to delete old dump dirs
+exception writing to internal frame buffer
+transactions removed from txns vid
+unable to stat file vid as either current user vid or table owner vid giving up
+updating table stats for vid
+exception writing to internal frame buffer
+job credentials did not contain delegation token fetching new token
+going to execute update vid
+n way spilling spill tail partition from previously loaded small tables
+exception writing to internal frame buffer
+unable to close current transaction batch vid
+exception writing to internal frame buffer
+vid batch vid repeated join vid
+using backported jarfinder
+failed to delete scratch dir vid
+received job id vid for unknown job vid
+materialized view vid ignored error creating view replacement
+second pass leaf operator vid
+skipping stream for column vid vid at vid vid
+found hs2 active host vid port vid identity vid mode vid
+killed vid
+leaf operator vid
+failed to persist directory vid
+registered tokens for vid
+failed to kill the job conn
+vid scratchcolumntypenames vid
+exception writing to internal frame buffer
+vid reloadhashtable
+unable to create operation log session directory vid
+exception writing to internal frame buffer
+use storagehandler supplied vid for table vid
+keepalive heart beat
+number of databases to prewarm in catalog vid vid
+exception writing to internal frame buffer
+kill request for task vid completed informing am
+added adjust added admin role
+llap dynamically partitioned hash join cannot be allocated
+exception writing to internal frame buffer
+added vid to admin role
+vid batch vid allmatchs vid equalkeyserieshashmapresultindices vid equalkeyseriesallmatchindices vid equalkeyseriesissinglevalue vid equalkeyseriesduplicatecounts vid atleastonenonmatch vid inputselectedinuse vid inuse vid inuse vid inuse vid spills vid
+about to remove vid obsolete path vid
+data not in the vid data type range so converted to null
+renaming vid to vid
+failed to close session vid
+stats for table vid column vid are not up to date
+adding pool vid trigger vid
+insufficient rows count of vid from vid
+error trying to delete the lookup vid
+analyzerepldump dumping table vid to db root vid
+tezsessionpool expiration thread exiting
+updating stats for vid
+going to rollback
+clearing vid hash partition vid
+failed to cancel metastore delegation token for jobid vid
+llap outputformat does not support sql vid
+options minworkerthreads vid
+going to execute insert vid
+failed to resolve my host name vid
+dynamic partitioning vid vid
+no aggregate stats cached for vid
+loading hash table for input vid cachekey vid tablecontainer vid
+ending group for children
+failed to find ugi of client set_ugi is not successful likely
+failed to load udf vid
+shutting down task executor queue
+rolled over to new transaction batch vid
+error requested is vid
+executing listprincipalpartitiongrants
+io thread interrupted while deleting spilling shutdown
+hybrid grace hash join hash table cannot be reloaded since it will be vid
+done retrieving all objects for listalltablegrants
+types vid vid
+going to execute update vid
+adding plain token with job id vid
+killed task vid
+dynamically partitioned hash join chosen
+aggregating column stats threads used vid
+exception hivepointlookupoptimizerrule
+exception writing to internal frame buffer
+send message to client vid
+executing command queryid vid time taken vid seconds
+no name provided for fileappender
+could not clean up file system handles for ugi vid
+disabling am events buffer size too large vid
+bucket cache entry vid
+metastore could find vid
+warehouse is using non hdfs filesystem vid disabling shouldmodifymanagedtablelocation
+requested termination of vid hosts vid
+locking vid due to cache collision
+login is not from keytab
+using llap instance vid
+tablename vid
+could not release lock vid
+exception writing to internal frame buffer
+failed to kill spark job
+processing vid for paths
+probed vid slots the longest so far to find space
+event vid was a add_ptn_table
+processing vid commit_txn message vid
+configure task vid
+avroserde initialized with columns vid
+row index is null likely reading a indexes disabled
+plan after nested convertoptree n vid
+script vid
+global init file vid does not exist
+initial setup vid n vid
+modulepath created for vid on vid
+vid the background operation was aborted
+key exprinterval vid
+setting up metastore connection to vid
+deserializing string vid based fragment for vid
+going to execute update vid
+vid long polling timed out
+found more than one child job to reconnect with vid skipping reconnect
+a file with the same content of vid already exists ignore
+going to execute query vid
+vid batch vid repeated joinresult vid
+cannot cache database vid s table vid memory needed is vid bytes whereas the memory remaining is vid bytes
+partial uncompressed data vid vid
+exception writing to internal frame buffer
+non retryable error in vid vid
+columns not separated for vid all partitions vid
+exception writing to internal frame buffer
+the cluster is not started yet invalidacl will retry
+stats for column vid in table vid could not be retrieved from cache
+error vid parsing json text vid
+adding lock component to lock request vid
+authentication succeeded based on group membership
+failed to delete node vid
+schema subscript vid found
+releasing locks vid
+no name provided for fileappender
+number of partitions to be added is vid
+error retrieving product name
+number of all splits vid
+failed to send taskkkkilled message for task vid
+exception writing to internal frame buffer
+no stats for vid column vid
+failed to delete the old dir is vid
+registered node created a znode on zookeeper for llap instance rpc vid shuffle vid webui vid mgmt vid znodepath vid
+failed to heartbeat failure vid
+error closing session
+hiveserver2 background operation thread wait queue size vid
+adding base directory vid to dirs to search
+error closing session
+aggregating stats for vid
+adding pool vid to list of hs2
+hs2 instance in active mode service record vid
+close called without any rows
+sending heartbeat to am event for heartbeat responder
+shutting down terminationexecutor
+exception writing to internal frame buffer
+waiting for events of vid partitions
+error closing loader vid
+hs2 instance vid lost leadership stopping disable
+bailing out of sort dynamic partitioning context is null
+version information added for plugin endpoint version vid
+adding stream for column vid vid at vid vid
+going to execute query vid
+set parallelism for reduce sink vid to vid
+error while trying to delete vid
+error closing resultset vid
+executing listrolembers
+bucket map join vid ms
+registering falling back for vid
+plan before reuse the query failed this is unexpected
+done retrieving all objects for vid
+sent taskkkilled for vid
+sort order vid
+error reporting jdo operation to metrics system
+exception writing to internal frame buffer
+going to rollback
+schema tables vid
+convert to non driver vid
+ddltask drop table is skipped as table vid is newer than update
+exception writing to internal frame buffer
+preparereturnvalues vid
+nothing to dag service
+object not found in metastore
+no partition is need to create partition vid
+approximate estimation for map vid from vid
+getsplits finished
+yarn plan via vid
+going to execute update vid
+going to run vid
+exception loading uri resolver hook vid
+no valid directories for vid
+exception writing to internal frame buffer
+setting up fatal event to vid for query vid
+refresh interval vid s vid
+error getting columns
+error while trying to delete data source vid
+going to execute query vid
+grouping permissions for user vid group vid
+exception while trying to retrieve table stats
+the session was both destroyed and returned by the user destroying
+finishouter nomatchcount batch size merged vid
+simulating adding table vid
+generating function instance for vid
+the tasks we expected to be on the node are not registered
+error during jdbc connection
+going to rollback
+duplicate tez counters vid
+no stats available from vid
+going to commit
+failed to submit plan to ats for vid
+hybrid grace hash join hash table cannot be reloaded since it will be vid
+error getting delegation token
+work vid is already connected to vid
+service vid is inited
+ignoring killfragment request for vid since it isn t known
+bucket map join vid vid
+unlocking vid at the end of processing
+computed a single range for the query vid
+exception writing to internal frame buffer
+cleaner ran for vid ms
+submissionstate for vid vid
+locking vid due to cache collision
+startup_msg starting vid host vid version vid
+exception writing to internal frame buffer
+could not retrieve canonical hostname for vid
+mkdirs for vid returned false
+pausing creation process for vid seconds
+use bitvector to merge column vid s ndvs of vid to be vid
+cannot create data for vid the node vid
+shuffle logging vid to vid
+columns to update stats vid vid for vid
+vid index vid vid
+executing redriver
+cancelling delegation token
+done retrieving all objects for listprincipalalltablegrants
+interrupted while starting tez session
+cached metastore configuration file vid
+writeset gc failed due to vid
+ending group for children
+running llap daemon with exception
+upload archive file from vid to vid
+found more than one child job to reconnect with vid skipping reconnect
+adding original directories vid
+session is null for vid session id vid
+replacing setcolref with allcolref because of nested allcolref
+found vid nr of bonecp specific configurations
+cycle free vid
+processing querycomplete for vid isexternal dag vid
+failed to start partitioncolumns for vid
+non retriable exception during objectstore initialize
+removed znode for hiveserver2 instance from zookeeper
+query vid vid applying action
+committing vid to vid vid
+hive spark use groupby shuffle is off use repartition shuffle instead
+not using llap io because it is not initialized
+caught exception attempting to execute vid
+jdbc standalone jar found vid
+trying to close spark session vid
+exception caught by vid exiting
+exception writing to internal frame buffer
+jdbcrecordreader got null record
+received job request for vid
+moved session vid to pool vid
+exception writing to internal frame buffer
+move vid to trash
+cannot determine map type vid
+received heartbeat from vid but hasn t been update
+executing listprincipaltablegrantsall
+llap service driver is disabled
+nodeenabler thread interrupted without being shutdown
+creating merge work from vid with write id vid into vid
+registering watches vid vid
+unable to delete from compaction queue vid
+ignoring killed task vid due to a communication failure
+the received input paths are vid against the property vid
+web ui has started on port vid
+batchsize determined to be vid
+ignoring invalid dp directory vid
+metastore could not find vid
+watch mode enabled and got yarn service client error retrying
+caught exception altering schema
+materialized view vid ignored for rewriting as table vid
+caching file metadata for vid file id vid
+adding stream for vid vid at vid vid
+exception when releasing locks in shutdownhook
+exception writing to internal frame buffer
+job credentials did not contain delegation token fetching new token
+clearing cmroot vid
+llapstatus watchmode with timeout vid s
+analyzing drop function vid
+loading function desc vid
+looking at vid
+going to commit
+exception writing to internal frame buffer
+keepalive heart beat
+done executing addmasterkey with status vid
+created scratchdir vid
+killing spark job vid with id vid
+done executing updatemasterkey
+one query killed metadata for query vid
+removing partial cb vid from ranges after copying its contents
+starting driver parsing
+executing listpartitionnamesps
+thread vid start partition dump vid
+added rename table task vid vid vid
+going to rollback
+exception writing to internal frame buffer
+could not find progress for vid
+processing for vid vid
+case stats vid cardinality vid
+cannot determine the session user using vid skipping
+caught exception while processing llap system web service request
+this hiveserver2 instance is now de registered from zookeeper
+unsupported type vid encountered in metastore
+content summary threads vid
+execution failed with exit status vid
+begin executing updater for partitions vid
+failed to rollback everything will probably go bad from here
+caught vid shutting down threads
+going to execute query vid
+finished processing isolated batch vid
+exception writing to internal frame buffer
+work vid be done in llap
+parsing hive metastore ds of vid
+error creating min max aggregations on key
+create function
+rawstore vid cannot be found in class vid
+validwriteidlist vid
+input format vid doesn t provided
+could not clean up file system handles for ugi vid
+no top operators
+exception writing to internal frame buffer
+jdbc standalone jar found vid
+added add constrains task vid vid
+going to execute update vid
+session configuration is null for a session ignoring
+executing listpartitiongrantsall
+error happens in method vid vid
+ddltask written data for vid
+split vid vid
+hiveconf operator vid is not enabled
+going to run vid
+could not de serialize partition desc from vid
+materialized view vid ignored error creating view table
+failed to create username for the session vid
+successfully completed vid
+processing vid create_message vid
+addtoken tokenidentifier vid added vid
+vid vectormapjoincommonoperator constructor smalltablemapping vid
+setting vid bytes needed for vid in mem
+the session was cancelled typically because it has already completed normally vid
+fatal error on vid cause vid
+adding vid to vid
+empty input skip limit optimization
+query to execute is vid
+going to rollback
+exception while trying to drop resource plan
+error canceling delegation token
+no session request found for user vid
+going to rollback
+convertpigschematohcatschema
+exception writing to internal frame buffer
+skipping preemption since there are vid pending preemption request for task vid
+couldn t get json ndbc string
+ssl server socket enabled protocols vid
+for input name vid task events size is vid
+choosing bit vectors
+adding original directories vid
+vectorizer vectorizeoperator map join vectorizeoperator vid
+exception while trying to get active resource plan vid
+heartbeat failure vid
+metastore could find vid
+setting mm ctas to vid
+disabling dynamic pruning for vid necessary
+exception writing to internal frame buffer
+show function
+going to commit
+couldn t get statistics from vid
+failed to close locks due to vid
+hcatclient droppartitions vid partitions vid
+interrupted exception ignored
+timeout monitor task not stopped timeout future state vid details vid
+adding failed vid to update
+close cancelled on id vid
+going to rollback
+force abort to recordprocessor
+aggregator is not native vid
+ignoring exception setting zookeeper instance of vid at vid
+parallelism for reduce sink vid to vid calculated
+using local dirs from configuration
+created staging dir vid for path vid
+error during the cleanup after another error ignoring
+error closing session
+exception writing to internal frame buffer
+conf classpath vid
+no registered record reader queueing event vid with message vid
+job credential tokens vid
+using vertex input format
+cannot rename partition directory from vid to vid
+created the token for remote user vid
+jdbc is running dynamic partitioning
+expiration queue is empty
+no taskid found for task vid
+error starting hiveserver2 instance from zookeeper
+generated vid with row schema vid
+interrupted while trying to close the path
+not doing compaction for vid since last vid attempts to compact it failed
+jdbcprojectpushdownrule has been called
+sending out nodereport for onremove vid
+metastore could not find vid
+json parsing evaluation exception vid
+case stats vid cardinality vid
+modulepath vid for vid
+exception writing to internal frame buffer
+overriding hiveconf setting vid vid
+exception writing to internal frame buffer
+check if it can be converted to bucket map join
+exception writing to internal frame buffer
+request remote address is null for user vid
+locking vid due to cache collision
+vid is not ready to expire adding it back
+trying to delete old dump dirs
+error writing proto message for query vid eventtype vid error vid
+added tez counters vid
+generated vid with row schema vid
+marking vid as operators
+loading materialized view vid
+counter vid has not initialized before
+setting vid to vid based on failure
+updating dumping notification for vid to vid
+will not initiate compaction for vid since last vid attempts to compact it failed
+error shutting down threadid vid
+cached new data vid
+exception writing to internal frame buffer
+unable to fetch kafka supervisor status vid full response vid
+evicted client has non zero user count vid
+ddltask create table is skipped as table vid is vid
+importing hash table for vid
+caught exception hook to printing summary
+vid reading column vid included index vid type vid
+cannot determine basic stats for table vid from metastore falling back
+executed vid tests
+exception writing to internal frame buffer
+resultset vid
+exception writing to internal frame buffer
+table vid is acid table skip statsoptimizer
+vid projected_size vid
+adding previous vid vid
+fragment vid guaranteed state changed to vid finishable vid in wait queue vid in preemption queue vid
+markfailed vid failed vid
+exception writing to internal frame buffer
+skipping vectorization
+generated vid with row schema vid
+exception writing to internal frame buffer
+metastore db guid vid created successfully
+creating new session
+no delete events in path vid deleting
+stats vid pk parent id s vid
+ignoring unknown original directory vid
+parse completed
+executing listtablenamesbyfilter
+exception in closing outthread vid
+operator vid vid
+creating the druid directory vid
+going to rollback
+shutting down remote driver due to error
+failed to insert session ignoring vid
+caught exception trying to execute partition spec
+opened a connection to metastore current connections vid
+reader read validwriteidlist vid istransactionaltable vid
+the default catalog names is null
+in vid found class vid with pathprefix vid not a test
+error during the cleanup after another error ignoring
