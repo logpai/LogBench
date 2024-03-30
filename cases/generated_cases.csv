@@ -1,0 +1,150 @@
+Tool,Generated_log,Ground_truth,File_name
+codewhisper,"log.error(""Plan tags {} are not allowed for this API"", planTags)","log.debug(""Plan rejected, tags {} mismatch the tags defined by the API ({})"", planTags, apiTags)",gravitee-api-management_TagsValidationServiceImpl_validatePlanTagsAgainstApiTags
+codegeex,"Log.error(""Node owner is not a local user: "" + nodeOwner)","Log.warn(""Node with access model Presence has a remote user as owner: {}"", node.getUniqueIdentifier())",openfire_PresenceAccess_canSubscribe
+gpt3.5,"log.info(""Created Toxiproxy container proxy for Google Storage module."")","log.info(""Started Google Storage ToxiProxy connection details {}"", map)",testcontainers-spring-boot_EmbeddedStorageBootstrapConfiguration_googleStorageContainerProxy_output
+copilot,"log.info(""Spring context closed"");","log.info(""shutdown success"")",inchain_InchainInstance_shutdown
+copilot,"log.error(msg, throwable);","log.error(msg, throwable)",micro-integrator_StartupAdminService_handleException
+incoder,"log.info(""Processing favicon update request for feed "" + faviconUpdateRequestedEvent.getFeed().getId());","log.info(MessageFormat.format(""Favicon update requested event: {0}"", faviconUpdateRequestedEvent.toString()))",reader_FaviconUpdateRequestedAsyncListener_onFaviconUpdateRequested
+davinci,"log.info(""ToxicProxied embedded Redis using container {} at {}:{}"", proxy.getName(), proxy.getContainerIpAddress(), proxy.getProxyPort())","log.info(""Started Redis ToxiProxy connection details {}"", map)",testcontainers-spring-boot_EmbeddedRedisBootstrapConfiguration_redisContainerProxy_output
+davinci,"log.info(""Successfully copied CPU usage bash script to {}."", CPU_LOGGER_SH_PATH)","log.info(""Copying script file to read CPU usage..."")",micro-integrator_CPUMonitor_setup_output
+davinci,"Log.warn(""Unable to route packet is packet and transportHandler are both null"")","Log.warn(""Could not deliver message: no deliverer available "" + packet.toString())",openfire_PacketTransporterImpl_deliver_output
+codewhisper,"LOG.info(""Creating Broker from "" + uri)","LOG.info(""Loading broker configuration from the classpath with URI: "" + uri)",activemq_XBeanConfigTest_createBroker
+copilot,"LOG.info(""jdbc-example.xml configuration test successful"");","LOG.info(""Success"")",activemq_JDBCConfigTest_testJdbcConfig
+incoder,"log.info(""Sent message "" + msgTo);","LOG.debug(""sent "" + i + "" messages using "" + connectionFactory.getClass())",activemq_PooledSessionExhaustionBlockTimeoutTest_sendMessages
+davinci,"log.error(""Operation failed: Incomplete logging statement"")","log.warn(""Failed"")",geronimo_ReceiverGBean_doFail_output
+incoder,"log.info(""Setting up "" + this.getClass().getName());","LOG.info(""========== Starting test: {} =========="", name.getMethodName())",activemq_HttpPullConsumerTest_setUp
+incoder,"log.debug(""Token expired {}"", idpToken);","LOG.info(""[IDP_TOKEN="" + idpToken.getId() + ""] is expired."")",cxf-fediz_IdpTokenExpiredAction_isTokenExpired
+codegeex,log.error(message),log.error(message),gateleen_RedisCacheStorage_cacheEntriesCount
+davinci,"LOG.debug(""Test setup with queue destination and non-persistent delivery mode"")","LOG.info(""Created  consumer destination: "" + consumerDestination2 + "" of type: "" + consumerDestination2.getClass())",activemq_JmsQueueTopicCompositeSendReceiveTest_setUp_output
+gpt3.5,"log.error(""IOException occurred while executing HTTP get request"")","log.error(""Error Occured while sending http get request. "" + e)",micro-integrator_HTTPResponseCodeTestCase_sendRequest_output
+davinci,"log.info(""Thread Group="" + this.concurrencyNumber + "" and loop count="" + this.numberOfIterations)","log.info(""Starting Concurrency test with "" + this.concurrencyNumber + "" Threads and "" + this.numberOfIterations + "" loop count"")",micro-integrator_ConcurrencyTest_run_output
+codegeex,Log.error(ie.getMessage()),"Log.error(ie.getMessage(), ie)",openfire_JiveBeanInfo_getPropertyDescriptors
+tabnine,"LOG.error(""Error on selector"", error).printStackTrace()","LOG.trace(""Error detected: {}"", error.getMessage())",activemq_AmqpNioTransport_initializeStreams
+incoder,log.info(xml);,"LOG.info(original.getClass().getName() + "" as XML is:"")",activemq_XStreamWireFormatTest_assertBeanMarshalls
+tabnine,"LOG.info(""Created consumer: "" + consumer)","LOG.info(""new consumer for: "" + consumer.getDestination())",activemq_AbstractVirtualDestTest_exerciseCompositeQueue
+incoder,log.info(Integer.toString(COUNT));,"LOG.info(""Initializing connection factory for JMS to URL: "" + bindAddress)",activemq_ConnectionPerMessageTest_testConnectionPerMessage
+davinci,"log.error(""Failed to check for certificate updates"", e)","log.error(""Error watching SSL key store file"", e)",ma-core-public_KeyStoreWatcher_doCheck_output
+incoder,"log.info(""onMessage"");","LOG.debug(""GOT A MSG "" + msg)",activemq_SlowConsumer_onMessage
+codegeex,"log.error("""", e)","log.error(""InterruptedException : "" + e)",micro-integrator_CARBON15928JMXDisablingTest_createDataSource
+codewhisper,"LOG.debug(""No message received!!"")","LOG.warn(""Got null message at count: "" + messagesCount + "". Continuing..."")",activemq_SlowConsumerTest_run
+tabnine,"log.error(""Error getting locale"", ex)","log.trace(""Failed to get locale from cookie"", ex)",oxauth_LanguageBean_getLocale
+codewhisper,"log.trace(""requestRpt method started"")","log.trace(""requestRpt grant_type: {}, ticket: {}, claim_token: {}, claim_token_format: {}, pct: {}, rpt: {}, scope: {}"", grantType, ticket, claimToken, claimTokenFormat, pctCode, rptCode, scope)",oxauth_UmaTokenService_requestRpt
+davinci,"log.error(""No value present for header: {}"", header)","log.warn(""An Unauthorized attempt has been made to access the protected resource from host "" + request.getRemoteHost())",geronimo_GenericHttpHeaderLoginmodule_matchHeaders_output
+copilot,"log.info(""MapMessage "" + i + "" sent to the Queue"");","log.info(""MapMessage "" + i + "" published to the JMS Queue"")",micro-integrator_JMSInboundMessageSupportTestCase_testMapMessageType
+davinci,"log.info(""Value set."")","log.debug(""set {}"", DeferredLogger.logValue(this.value))",openapi-diff_PendingChanged_setValue_output
+davinci,"LOG.info(""Closed JMS Session and Connection"")","LOG.info(""Closing session and connection"")",activemq_AMQ2580Test_shutdownClient_output
+copilot,"log.warn(""Inaccessible field '"" + field.getName() + ""' on class "" + cls.getName(), e);","log.error(""Could not set field {}, inaccessible"", field.getName())",sherlock_HashMapper_performUnmap
+gpt3.5,"log.info(""Buffer reset."")","log.debug(""Resetting buffer..."")",geronimo_SubstituteResponseWrapper_resetBuffer_output
+gpt3.5,"LOG.info(""Checking if the broker contains the original destination"")","LOG.info(""Adding destinations"")",activemq_DestinationsTest_testMod_output
+tabnine,"LOG.info(""Received message: "" + message).flush()","LOG.info(""Got message: "" + message.getJMSMessageID())",activemq_AMQ2751Test_onMessage
+copilot,"log.debug(""ValveGBean: starting valve "" + className);","log.debug(className + "" started."")",geronimo_ValveGBean_doStart
+codegeex,"LOG.error(""Failed to update tray menu"", e)","LOG.error(""Updating tray menu failed"", e)",cryptomator_TrayMenuBuilder_rebuildMenu
+incoder,"log.error(""Exception during test"", ex);","LOG.error(""unexpected exception on connect/disconnect"", ex)",activemq_MQTTConnectTest_testInactivityMonitor
+davinci,"log.error(""Error while executing doStop()"", e)","log.info(""exception failing"", e)",geronimo_EjbDaemonGBean_doFail_output
+tabnine,"LOG.error(""Mango Serial Port Event Processor Error"", e)","LOG.error(""Serial Port Event Task Failed"", e)",ma-core-public_JsscSerialPortManager_initialize
+incoder,"log.debug(""Configuring transaction attributes for transaction attribute ["" + transactionAttribute.getTransactionAttributeNum() + ""]"");","log.debug(""creating TransactionDefinition for transactionAttribute ["" + transactionAttribute + ""], timeout ["" + transactionTimeout + ""]"")",iaf_TransactionAttributes_configureTransactionAttributes
+gpt3.5,"log.info(""Activating component"")","log.debug(""Activating Inbound Endpoint service....!"")",micro-integrator_InboundEndpointServiceDSComponent_activate_output
+tabnine,"log.error(""Failed to find entry by DN: {}"", dn, epe)","log.error(""Failed to find entry '{}'"", dn)",oxauth_ExternalScriptContext_getEntryByDn
+codewhisper,"log.debug(""Lock acquired: "" + lockType + "" "" + resourceType + "" "" + resourceId + "" "" + transactionId + "" "" + description + "" "" + estimatedWaitTime + "" "" + lockIdentityHashCode)","log.info(""%s{id=%d, txId=%d, waitTime=%d, description=%s, lockHash=%d}"", resourceType, resourceId, transactionId, estimatedWaitTime, description, lockIdentityHashCode)",neo4j_DumpLocksVisitor_visit
+copilot,"log.warn(""Unknown shared object event type: {}"", type);","log.error(""Unknown type {}"", type)",red5-server_SharedObjectTypeMapping_toByte
+copilot,"log.error(""Failed to rollback transaction"", e);","log.error(""Failed to roll back transaction."", e)",neo4j_RollbackInvocation_execute
+codegeex,"log.info(""Created temp file: "" + tempFile.toAbsolutePath())","log.warn(""Create temp file to store the HDT stream {}"", tempFile)",hdt-java_RDFParserHDT_doParse
+incoder,"log.info(""Sending {} messages to broker {}"", count, getDestinationName());","LOG.debug(""Sending {} messages to destination: {}"", MESSAGE_COUNT, queue)",activemq_JMSMessageGroupsTest_sendMessagesToBroker
+codegeex,"log.info(""Registering MariaDB environment for {}"", host)","log.info(""Started mariadb server. Connection details: {}, "" + ""JDBC connection url: "" + jdbcURL, map, host, mappedPort, properties.getDatabase())",testcontainers-spring-boot_EmbeddedMariaDBBootstrapConfiguration_registerMariadbEnvironment
+tabnine,"LOG.info(""Sending messages"").start()","LOG.info(""Creating producer"")",activemq_AMQ2580Test_sendMessages
+tabnine,"log.info(""Initialization of {} priority data sources in {} threads"", items.size(), maxConcurrency)","log.info(""Initializing {} {} priority data sources in {} threads"", items.size(), startPriority, maxConcurrency)",ma-core-public_DataSourceGroupInitializer_process
+gpt3.5,LOG.info(msg.toString()),LOG.info(msg.toString()),jate_Basic_execute_output
+davinci,"LOG.info(""Registered Durable Subscriber: "" + subscriberName)","LOG.info(""Started connection - now about to try receive the textMessage"")",activemq_SubscribeClosePublishThenConsumeTest_testDurableTopic_output
+codewhisper,"log.error(""ValidationException"", validationException)","log.error(""Could not parse logging resource: {}"", validationException.toString())",gateleen_LoggingResourceManager_handleLoggingResource
+gpt3.5,"LOG.error(""Error occurred while accepting connection: "" + error.getMessage())","LOG.error(""Could not accept connection: "", error)",activemq_ProxyConnector_onAcceptError_output
+gpt3.5,"LOG.info(""Previous binding configuration is null"")","LOG.error(""Attempt to update binding in configuration scope '{}' that was not registered"", configurationScopeId)",sonarlint-core_ConfigurationServiceImpl_bind_output
+codegeex,"log.info(""Installing plugin"")","log.info(""Installing Discarding Dead Letter Queue broker plugin[dropAll={}; dropTemporaryTopics={}; dropTemporaryQueues={}; dropOnly={}; reportInterval={}]"", new Object[] { isDropAll(), isDropTemporaryTopics(), isDropTemporaryQueues(), getDropOnly(), reportInterval })",activemq_DiscardingDLQBrokerPlugin_installPlugin
+codewhisper,"LOG.info(""received message: "" + receivedText)","LOG.info(""consumer received message: "" + receivedText + (tm.getJMSRedelivered() ? "" ** Redelivered **"" : """"))",activemq_TransactionRollbackOrderTest_testTransaction
+incoder,"log.info(""Initialization of {} data points in {} threads"", items.size(), maxConcurrency);","log.info(""Initializing {} data points in {} threads"", items.size(), maxConcurrency)",ma-core-public_DataPointGroupInitializer_initialize
+codewhisper,"log.error(""Error building connector gbean"", e)","log.error(""Error when building connectorGbean for connector: "" + conn.getAttribute(""address"") + "":"" + conn.getPort(), e)",geronimo_ConnectorWrapperGBeanStarter_buildConnectorGBean
+codegeex,"log.info(""createTopicCmd: {}"", Arrays.toString(createTopicCmd))","log.debug(""Topic={} creation cmd='{}' execResult={}"", topic, createTopicCmd, execResult)",testcontainers-spring-boot_KafkaTopicsConfigurer_createTopic
+gpt3.5,"log.info(""Mango properties reloaded successfully"")","log.info(""Mango properties file reloaded: {}"", mangoProperties.getEnvPropertiesPath())",ma-core-public_MangoConfigurationWatcher_reloadAndFireEvent_output
+davinci,"LOG.debug(""Assigned sequence numbers to sendStreamOfCommands: {}"", Arrays.toString(sequenceNumbers))","LOG.info(""command: "" + i + "" = "" + value)",activemq_ReliableTransportTest_testValidWrapAroundPackets_output
+tabnine,"log.debug(""visitDecimal: {} {} {} {}"", name, id, exp, mant)","log.warn(buildTab() + ""visitDecimal {}"", name)",pronghorn_StreamingReadVisitorDebugDelegate_visitDecimal
+gpt3.5,"log.error(""An exception occurred while processing message: {}"", message, exception)","log.error(""send completed with error"", exception)",benchmark_JMSBenchmarkProducer_onException_output
+incoder,"log.debug(""CIBA: Notifying the end user"");","log.debug(""CIBA: Authorization request sending to the end user with custom interception scripts"")",oxauth_CIBAEndUserNotificationService_notifyEndUser
+codegeex,"log.error(""Error deleting permission"", e)","log.error(e.getMessage(), e)",oxauth_UmaPermissionService_deletePermission
+codewhisper,"log.error(""Error getting persistence store"", error)","log.error(""Could not create persistence store."", error)",red5-server_GlobalScope_getStore
+copilot,"LOG.debug(""loaded properties from ["" + entryName + ""]: "" + props);","LOG.info(""properties loaded from archive, filename [{}]"", name)",iaf_BuildInfoValidator_read
+codewhisper,"log.debug(errorMessage, e)","log.debug(errorMessage, e)",micro-integrator_LDAPRealmConfigBuilder_getRealmConfigForTenantToPersist
+davinci,"LOG.info(""Updating Claim with Claim type: ""+claimType)","LOG.debug(""Claim '{}' added"", claim.getClaimType())",cxf-fediz_ClaimDAOJPAImpl_updateClaim_output
+gpt3.5,"log.info(""Shared object {} method {} called with params {}"", so, method, params)","log.trace(""onSharedObjectSend"")",red5-server_SOListener_onSharedObjectSend_output
+copilot,"LOG.info(""Using broker URI: "" + tcpBrokerUri);","LOG.info(""consuming using uri: "" + tcpBrokerUri)",activemq_FailoverReadInactivityBlockWriteTimeoutClientTest_testBlockedFailoverSendWillReactToReadInactivityTimeout
+gpt3.5,"log.error(""An exception occurred: {}"", e.getMessage())","log.error(e.getClass().getSimpleName() + "" is not mapped"", e)",forest_ResponseHandler_mapInternalException_output
+codewhisper,"log.error(""Pull message failed"", t)","log.error(""exception when pulling message from provider"", t)",red5-server_InMemoryPullPullPipe_pullMessage
+tabnine,"LOG.info(""Transport resumed"").log(Level.INFO)","LOG.info(""on transportResumed"")",activemq_InitalReconnectDelayTest_transportResumed
+codegeex,"log.error(""Error adding start time parameter to axis configuration"", e)","log.error(""Could not set the  server start time parameter"", e)",micro-integrator_StartupFinalizer_setServerStartTimeParam
+codewhisper,"log.error(""Error during keystore check"", e)","log.error(""Error watching SSL key store file"", e)",ma-core-public_KeyStoreWatcher_doCheck
+incoder,"log.debug(""Signature from authentication response in HEX '{}'"", Hex.encodeHexString(signedBytes));","log.debug(""Packed bytes to sign in HEX '{}'"", Hex.encodeHexString(signedBytes))",oxauth_RawAuthenticationService_checkSignature
+copilot,"LOG.info(""Start of wait"");","LOG.info(""Waiting for message to arrive"")",activemq_ConsumerBean_waitForMessageToArrive
+gpt3.5,"log.error(""Error occurred while populating file content"", e)","log.error(""Error occurred while creating the response"", e)",micro-integrator_LogFilesResource_populateFileContent_output
+tabnine,"LOG.info(""Removing virtual destination: {}"", removedVirtualDest)","LOG.info(""Removed virtual destination: {}"", removedVirtualDest)",activemq_UpdateVirtualDestinationsTask_run
+incoder,"log.debug(""Response from DSS: "" + response1.getResponseMessage());","log.info(""--------------- Test for null elements for Number types is successful -----------"")",micro-integrator_CARBON15879XmlNullElementTest_jsonInputWithWrongValueTypeTestCase
+tabnine,"log.debug(""Request: {}"", request)","log.debug(""Request: GET {}"", serverUrl)",webdrivermanager_ServerResolverTest_testServerResolver
+gpt3.5,"log.error(""Unknown type found in Gson array"")","log.warn(""Unknown JsonPrimitive type found : "" + jsonPrimitive.toString())",micro-integrator_GSONUtils_gsonJsonArrayToObjectArray_output
+codegeex,"LOG.info(""Sending a reply to a prepare request"")","LOG.info(""Stopping broker on prepare"")",activemq_FailoverXATransactionTest_testFailoverSendPrepareReplyLost
+tabnine,"LOG.warn(""No system theme provider available"")","LOG.warn(""No UiAppearanceProvider present, assuming LIGHT theme..."")",cryptomator_FxApplicationStyle_applySystemTheme
+codegeex,"LOG.error(""Error suspending discovery agent"", e)","LOG.warn(""Exception suspending discoverAgent: {}"", discoveryAgent)",activemq_DiscoveryTransport_transportResumed
+davinci,"log.info(""Extracting "" + resourcePath + "" to "" + destDir)","log.info(""Extracting "" + resourcePath + "" to directory: "" + destDir)",msdk_ZipResourceExtractor_extract_output
+codewhisper,"log.trace(""Skipping tag: {}"", tag)","log.debug(""Going to skip tag: "" + tag.getName())",red5-server_TagCrawler_createSkipHandler
+codegeex,"LOG.info(""handleRequest"")","LOG.debug(""Metadata document requested"")",cxf-fediz_MetadataDocumentHandler_handleRequest
+gpt3.5,"log.error(""An error occurred while executing the template check."", e)","log.error(""Unable to list templates"", e)",acs-aem-tools_TemplateThumbnailHealthCheck_execute_output
+davinci,"log.error(""Error occurred while building XACML3 request from attributes: "" , e)","log.error(""Error in generating XACML Content element"", e)",micro-integrator_XACMLRequetBuilder_buildXACML3Request_output
+gpt3.5,"LOG.error(""Error occurred while selecting the channel"", error)","LOG.trace(""Error detected: {}"", error.getMessage())",activemq_AmqpNioTransport_initializeStreams_output
+tabnine,"LOG.info(""New destination: {}"", newQueue).info()","LOG.info(""New destinations are: "" + newDestinations)",activemq_DestinationListenerTest_testProducerForcesNotificationOfNewDestination
+copilot,"log.debug(""Sending {} messages to Kafka."", messages.size());","log.debug(""Start processing {} messages for kafka"", messages.size())",gateleen_KafkaMessageSender_sendMessages
+codegeex,"_log.info(""found feedVersion "" + info.getVersion() + "" for agency "" + agencyId)","_log.info(""found feedVersion "" + info.getVersion() + "", abandoning"")",onebusaway-gtfs-modules_FeedInfoFromAgencyStrategy_run
+incoder,"log.error(""Failed to set property {} on {} with value {}"", property.getJavaTargetPropertyName(), target.getClass(), source, e);","log.error(e.getMessage(), e)",oxauth_JsonApplier_apply
+codegeex,"log.debug(""Registering new MBean for class "" + cName)","log.debug(""Register name: {}"", cName)",red5-server_JMXUtil_registerNewMBean
+davinci,"log.error(""Failed to recover transactions up to {}. Cause: {}"", recoveryToPosition, t)","log.warn(format(""Fail to recover all transactions. Last recoverable transaction id:%d, committed "" + ""at:%d. Any later transaction after %s are unreadable and will be truncated."", commitEntry.getTxId(), commitEntry.getTimeWritten(), recoveryToPosition), t)",neo4j_LoggingLogFileMonitor_failToRecoverTransactionsAfterCommit_output
+gpt3.5,"log.info(""Service deployment test passed successfully"")","log.info(SERVICE_NAME + "" is deployed"")",micro-integrator_SingleServiceGeneratorTestCase_testServiceDeployment_output
+codewhisper,"log.error(""Error decoding message"", e)","log.error(""Caught exception while parsing JSON string '"" + payloadString + ""'."")",camus_JSONToAvroMessageDecoder_decode
+tabnine,"LOG.info(""expected: "" + expected).toString()","LOG.info(""expected: "" + expected)",activemq_RedeliveryPluginTest_testInstallPluginValidation
+codegeex,"log.error(""Error getting http response"", e)","log.error(""IO exception occurred, "" + e.getMessage())",micro-integrator_CARBON15280RepeatServiceNameInURLTest_getHttpResponse
+copilot,"log.info(""requestStatusNameSpaceQualifiedForDeleteOperation"");","log.info(""Delete operation success"")",micro-integrator_ReturnRequestStatusTest_requestStatusNameSpaceQualifiedForDeleteOperation
+codewhisper,"log.error(""From date is after to date"")","log.warn(""Unable to retrieve historical quotes. "" + ""From-date should not be after to-date. From: "" + this.from.getTime() + "", to: "" + this.to.getTime())",yahoofinance-api_HistQuotes2Request_getResult
+tabnine,log.info(logMessage),log.info(logMessage),iaf_BusEndpointBase_log2SecurityLog
+codewhisper,"log.info(""received: "" + message.getStringProperty(""priority"") + "" "" + message.getStringProperty(""text""))",log.info(((TextMessage) message).getText()),activemq_AMQ1893Test_consume
+codegeex,"log.debug(""visitUnsignedInteger: {} {} {}"", name, id, value)","log.warn(buildTab() + ""visitUnsignedInteger {} value {}"", name, value)",pronghorn_StreamingReadVisitorDebugDelegate_visitUnsignedInteger
+gpt3.5,"LOG.info(""Message sent: "" + idx)","LOG.debug(""Sending: "" + idx)",activemq_SlowConsumerTest_testRemoveSubscriber_output
+codegeex,"LOG.info(""Initializing"")","LOG.trace(""init MainWindowTitleController"")",cryptomator_MainWindowTitleController_initialize
+gpt3.5,"LOG.error(""An error occurred during thread execution."", e)","LOG.error(""failed to complete a sweep for blocked clients"", e)",activemq_TransportStatusDetector_run_output
+codewhisper,"log.error(e.getMessage(), e)","log.debug(""Error loading custom logo: "" + e.getMessage())",oxauth_OxAuthLogoServlet_readCustomLogo
+codegeex,"log.info(""Start to process data source."")","log.info(""Initializing {} {} priority data sources in {} threads"", items.size(), startPriority, maxConcurrency)",ma-core-public_DataSourceGroupInitializer_process
+copilot,"log.info(serviceName + "" uploaded"");","log.info(serviceName + "" uploaded"")",micro-integrator_SPARQLServiceTestCase_serviceDeployment
+codewhisper,"log.trace(""Session updated successfully. Session: "" + session)","log.trace(""Session updated successfully. Session: "" + session)",oxauth_ConsentGatheringSessionService_persist
+incoder,"log.error(""Exception while processing message: {}"", message, exception);","log.info(""send completed with error"", exception)",benchmark_JMSBenchmarkTransactionProducer_onException
+davinci,"LOG.error(""Error creating connection to broker: "", jmsEx)","LOG.debug(""Caught exception while attempting to get a new Connection."", jmsEx)",activemq_SessionPool_getConnection_output
+gpt3.5,"LOG.info(""Initializing..."")","LOG.trace(""init MainWindowTitleController"")",cryptomator_MainWindowTitleController_initialize_output
+gpt3.5,"LOG.error(""InterruptedException occurred while handling launch events"", e)","LOG.warn(""Interrupted launch event handler."")",cryptomator_AppLaunchEventHandler_handleLaunchEvents_output
+incoder,"log.debug(""Removed entitlement {} from role {}"", entitlementEntity, roleEntity);","LOG.debug(""Entitlement '{}' removed from Role '{}'"", entitlement.getName(), role.getName())",cxf-fediz_RoleDAOJPAImpl_removeEntitlementFromRole
+tabnine,"LOG.info(""Installing Statistics Broker Plugin"")","LOG.info(""Installing StaticsBroker"")",activemq_StatisticsBrokerPlugin_installPlugin
+copilot,"Log.error(""Error deserializing packet: "" + xml, e);","Log.warn(""Unable to deserialize string '{}'"", xml, e)",openfire_IQResultListenerTask_readExternal
+davinci,"log.error(""Unable to build json string with the response parameters"", e)","log.error(e.getMessage(), e)",oxauth_ClientInfoRestWebServiceImpl_getJSonResponse_output
+codewhisper,"log.error(""Error sending message to emitter"", e)","log.error(e.getMessage(), e)",splitet_OperationsBroadcaster_onMessage
+tabnine,"log.error(se.getMessage(), se)","log.debug(""SmbComFindClose2 failed"", se)",jcifs-ng_DirFileEntryEnumIterator1_doCloseInternal
+davinci,"LOG.info(""No GC occurred, numSchedulerFiles = {}, numKahadbFiles = {}"", numSchedulerFiles, numKahadbFiles)","LOG.info(""job store: "" + jobSchedulerStore)",activemq_AMQ7086Test_testNoGcAtStop_output
+codegeex,"LOG.error(""Invalid regexp: "" + str, e)","LOG.warn(""Ignoring invalid regexp: "" + str)",activemq_ReloadableProperties_regexpPropertiesMap
+codegeex,"LOG.error(""HomeRealm is not set."")","LOG.debug(""No home realm found in request"")",cxf-fediz_HomeRealmCallbackHandler_handle
+davinci,"log.info(""Application Context is set in class: {}"", this.getClass().getName())","log.trace(""Setting application context"")",red5-server_PluginLauncher_setApplicationContext_output
+tabnine,"log.debug(""transaction attribute ["" + transactionAttribute + ""]"")","log.debug(""creating TransactionDefinition for transactionAttribute ["" + transactionAttribute + ""], timeout ["" + transactionTimeout + ""]"")",iaf_TransactionAttributes_configureTransactionAttributes
+copilot,"log.info(""Forwarding request to storage: {} {}"", ctx.request().method(), targetUri);","log.debug(""Forwarding request: {} to storage {} {} with rule {}"", ctx.request().uri(), rule.getStorage(), targetUri, rule.getRuleIdentifier())",gateleen_StorageForwarder_handle
+codewhisper,"log.warn(""XPath expression did not match any nodes"")","log.info(""XPATH ["" + xpath + ""] executed on input ["" + input + ""] does not return a result"")",micro-integrator_XMLUtils_evaluate
+codegeex,"log.info(""Setting SecretCallbackHandlerService"")","log.debug(""SecretCallbackHandlerService bound to the ESB initialization process"")",micro-integrator_SynapseSecurityServiceComponent_setSecretCallbackHandlerService
+davinci,"log.info(""Destroy method called in the bean class"")","log.info(""Default destroy invoked. Not overwritten."")",micro-integrator_GenericPollingConsumer_destroy_output
+codewhisper,"log.info(""HTTP Server stopped"")","log.info(""SimpleHTTPServer stopped"")",micro-integrator_SimpleHTTPServer_stop
+gpt3.5,"log.error(""Error while looking up FeatureManager in JNDI"", e)","log.debug(""FeatureManager not found: "" + e.getMessage())",togglz_JNDIFeatureManagerProvider_getFeatureManager_output
+davinci,"log.debug(""Removed SSLSession for request: "" + ri.request_id())","log.debug(""Removing SSL Session for send_reply"")",geronimo_ServiceContextInterceptor_send_other_output
+codewhisper,"log.debug(""Closing the stream"")","log.debug(""Closing Echo DataSource"")",micro-integrator_EchoDataSource_close
+codegeex,"LOG.info(""Consumer for "" + prefix + topic)","LOG.info(""new consumer for: "" + consumer.getDestination())",activemq_AbstractVirtualDestTest_exerciseVirtualTopic
+copilot,"LOG.info(""Attempting to move one message, TimeoutException expected"");","LOG.info(""Produced "" + messageCount + "" messages to the broker."")",activemq_MBeanOperationTimeoutTest_testLongOperationTimesOut
+incoder,"log.trace(""SmbShareInfo["" + i + ""]="" + e.getNetName() + "", "" + e.getType() + "", "" + e.getRemark());",log.trace(e.toString()),jcifs-ng_NetShareEnumResponse_readDataWireFormat
+davinci,"log.debug(""GBean "" + targetName + "" not running; waiting to start "" + abstractName + "" for reference "" + getName() + "" matching the patterns "" + targetName)","log.debug(""Waiting to start "" + abstractName + "" because no targets are running for reference "" + getName() + "" matching the patterns "" + targetName)",geronimo_GBeanSingleReference_start_output
+codewhisper,"log.debug(""Configuring Log4j using URL: "" + url)","log.debug(""Configuring from URL: "" + url)",geronimo_URLConfigurator_doConfigure
+codewhisper,"log.info(""testVerifyAntifakeCode"")","log.info(""best block height {}"", network.getBestBlockHeight())",inchain_AntifakeCodeVerifyTransactionTest_testVerifyAntifakeCode
+codegeex,"log.info(""Base directory: "" + base.getAbsolutePath())","log.info(""Using base folder: "" + base.getAbsolutePath())",micro-integrator_Server_main
