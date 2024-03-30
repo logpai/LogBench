@@ -81,7 +81,7 @@ def check_repo(owner, repo, branch="master"):
     # Define the Github Tree API endpoint and repository details
     api_url = 'https://api.github.com/repos/{owner}/{repo}/git/trees/{branch}?recursive=1'
     # Make an HTTP GET request to the Github Tree API endpoint
-    access_token = "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"
+    access_token = ""
     headers = {'Authorization': f'token {access_token}'}
     if not os.path.exists(f"repos/{repo}/"):
         os.makedirs(f"repos/{repo}/")
