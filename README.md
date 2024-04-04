@@ -82,5 +82,5 @@ As GitHub does not hold large datasets, you can download the **whole** collected
 The folder `/build` contains the built tranformation tool we developed. It will conduct the code tranformation automatically with the eight code transformers.
 - To conduct the code transformation in batch.
 ```
-java -jar code-transformer.jar -f ./files/
+java -jar code-transformer.jar -f ./javafiles/
 ```
