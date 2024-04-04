@@ -1,5 +1,5 @@
 # LoggingStudy
-LogBench is the benchmark for evaluating the performance of LLMs in logging statement generation. Here is the overview of the study:
+LogBench is the benchmark for evaluating the performance of LLMs in logging statement generation. Here is the overview of the study [Paper](https://arxiv.org/abs/2307.05950):
 ![overview](img/empirical_overview.png)
 We provide part of the code in the folder `/src`, We will make the full source code available after the paper has been accepted.
 
