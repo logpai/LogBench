@@ -27,8 +27,8 @@ Additionally, LogBench offers various variants to support different settings in 
 ## Repository organization 
 We currently provide part of the code in the folder `/src`. We will release the full source code after the paper has been accepted.
 
-* LogBench-O: The `/LogBench-O` folder contains the sampled files for LogBench-O.
-* LogBench-T: The `/LogBench-T` folder contains the sampled files for LogBench-T.
+* LogBench-O: The `/LogBench-O` folder contains the files for LogBench-O.
+* LogBench-T: The `/LogBench-T` folder contains the files for LogBench-T.
 * Cases: Please refer to the `cases` folder for the generated cases.
 
 # 
@@ -89,7 +89,7 @@ We currently provide part of the code in the folder `/src`. We will release the 
 
 
 ## Download original crawling logging dataset
-As GitHub does not hold large datasets, you can download the **whole** collected logging dataset Fullsize at [here](https://drive.google.com/file/d/13EV-rIFEwVrLGnpNIcpF3u9NSOh_gCNM/view?usp=sharing)
+For further logging-related research, as GitHub does not hold large datasets, you can download the **whole** collected logging dataset Fullsize at [here](https://drive.google.com/file/d/13EV-rIFEwVrLGnpNIcpF3u9NSOh_gCNM/view?usp=sharing)
 (zip: 252M; unzip: 786M).
 
 
