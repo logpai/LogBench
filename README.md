@@ -83,7 +83,7 @@ We currently provide part of the code in the folder `/src`. We will release the 
 | **Non-LLMs** | |
 | DeepLV      | Model    | [ICSE'21] [DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks](https://ieeexplore.ieee.org/abstract/document/9402068) |
 | WhichVar      | Model    | [TSE'21] [Which Variables Should I Log?](https://ieeexplore.ieee.org/document/8840982) |
-| LoGenText-Plus        | Model  | [TSE'23] [LoGenText-Plus: Improving Neural Machine Translation Based Logging Texts Generation with Syntactic Templates](https://dl.acm.org/doi/10.1145/3624740) |
+| LoGenText-Plus        | Model  | [TOSEM'23] [LoGenText-Plus: Improving Neural Machine Translation Based Logging Texts Generation with Syntactic Templates](https://dl.acm.org/doi/10.1145/3624740) |
 
 
 
