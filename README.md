@@ -85,6 +85,7 @@ We currently provide part of the code in the folder `/src`. We will release the 
 | WhichVar      | Model    | [TSE'21] [Which Variables Should I Log?](https://ieeexplore.ieee.org/document/8840982) |
 | LoGenText-Plus        | Model  | [TOSEM'23] [LoGenText-Plus: Improving Neural Machine Translation Based Logging Texts Generation with Syntactic Templates](https://dl.acm.org/doi/10.1145/3624740) |
 
+For each baseline utilized, we kindly request that please ensure to cite the relevant paper while using the code.
 
 
 
@@ -100,13 +101,3 @@ The folder `/build` contains the built tranformation tool. It will conduct the c
 ```
 java -jar code-transformer.jar -f ./javafiles/
 ```
-# Citation
-```bibtex
-@article{li2024exploring,
-  title={Exploring the effectiveness of llms in automated logging generation: An empirical study},
-  author={Li, Yichen and Huo, Yintong and Jiang, Zhihan and Zhong, Renyi and He, Pinjia and Su, Yuxin and Briand, Lionel C. and Lyu, Michael R},
-  journal={arXiv preprint arXiv:2307.05950},
-  year={2024}
-}
-```
-For each baseline utilized, we kindly request that please ensure to cite the relevant paper while using the code.
