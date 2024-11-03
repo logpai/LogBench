@@ -10,7 +10,7 @@ If you find our paper benefit your research, please kindly cite our following pa
 + Yichen Li, Yintong Huo, Zhihan Jiang, Renyi Zhong, Pinjia He, Yuxin Su, Lionel C. Briand, and Michael R. Lyu. [Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study](https://arxiv.org/abs/2307.05950), IEEE Transactions on Software Engineering(TSE), 2024.
 
 ## Study overview
-![overview](img/empirical_overview.png)
+![overview](img/empirical_overview.jpg)
 
 The study is fully described in this [paper](https://arxiv.org/abs/2307.05950). LogBench comprises two subsets for evaluating the model's *effectiveness* and *generalizability*, respectively:
 
