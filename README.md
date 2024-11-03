@@ -7,7 +7,7 @@ Logging statements are imperative in modern software. They serve important role 
 
 If you find our paper benefit your research, please kindly cite our following paper:
 
-+ Yichen Li, Yintong Huo, Zhihan Jiang, Renyi Zhong, Pinjia He, Yuxin Su, Lionel C. Briand, and Michael R. Lyu. [Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study](https://arxiv.org/abs/2307.05950), arXiv preprint, 2024.
++ Yichen Li, Yintong Huo, Zhihan Jiang, Renyi Zhong, Pinjia He, Yuxin Su, Lionel C. Briand, and Michael R. Lyu. [Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study](https://arxiv.org/abs/2307.05950), IEEE Transactions on Software Engineering(TSE), 2024.
 
 ## Study overview
 ![overview](img/empirical_overview.png)
